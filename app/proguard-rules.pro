@@ -19,3 +19,9 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# Keep all classes in the app package
+-keep class com.wolfbytetechnologies.ielts.** { *; }
+
+# Keep AdMob classes
+-keep class com.google.android.gms.ads.** { *; }

@@ -1,12 +1,11 @@
 <resources>
-    <string name="app_name">IELTS Preparation &amp; Tips</string>
+    <string name="app_name">IELTS Tips &amp; Preparation</string>
     <string name="IeltsVocabularyText">IELTS Vocabulary</string>
     <string name="GrammarForIeltsText">Grammar For IELTS</string>
     <string name="IeltsTipsText">IELTS Tips</string>
     <string name="readingText">Reading</string>
     <string name="writingText">Writing</string>
     <string name="speakingText">Speaking</string>
-
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="part_of_speech">Part of Speech</string>
     <string name="word_name">Word Name</string>
